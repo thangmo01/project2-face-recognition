@@ -1,0 +1,12 @@
+DB = {
+    'HOST': "localhost",
+    'USER': "root",
+    'PASSWORD': "",
+    'NAME': "project2"
+}
+
+AWS = {
+    'S3_BUCKET_NAME': '',
+    'S3_BUCKET_REGION': 'ap-northeast-1',
+    'REK_COLLECTION_ID': ''
+}
