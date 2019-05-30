@@ -1,2 +1,8 @@
 # project2-face-recognition
-Flask python3
+python3
+- REST API with Flask
+- AWS S3
+- AWS rekognition
+- Nginx
+- gnuicorn service
+
